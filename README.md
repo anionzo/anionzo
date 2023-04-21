@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 # 💫About Me :
 Đến cùng là chúng ta có được mèo, 
 hay mèo ân sủng chúng ta tiến vào cuộc sống của nó?
+#
+In the end, do we have a cat, or does the cat allow us to enter its life?
 
 
 ## 🌐Socials
