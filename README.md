@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫About Me :
-Nick name: Mi Miêu
-
-Đến cùng là chúng ta có được mèo, 
-hay mèo ân sủng chúng ta tiến vào cuộc sống của nó?
-#
-In the end, do we have a cat, or does the cat allow us to enter its life?
-
 
 ## 🌐Socials :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anionzo/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anionzo/) 
