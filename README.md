@@ -90,30 +90,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  
-  ### 「 GITHUB STATS 」
-
-  <br/>
-  
-  <a href="https://github.com/anionzo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anionzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF007F&text_color=FFFFFF&ring_color=7B2FFF" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anionzo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" />
-  </a>
-  
-  <br/><br/>
-  
-  <a href="https://github.com/anionzo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anionzo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007F&currStreakLabel=00F0FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-  </a>
-
-  <br/><br/>
-  
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-</div>
-
 <br/>
 
 <div align="center">
@@ -131,8 +107,8 @@
   <a href="https://facebook.com/anionzo" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-7B2FFF?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
-  <a href="https://discord.gg/anionzo" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+  <a href="https://t.me/anionzo" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-00F0FF?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
   </a>
   <a href="mailto:me@anionzo.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
