@@ -35,7 +35,7 @@
 
   <p align="left">
     🎯 <b>Full-Stack Developer</b> who loves crafting elegant digital experiences<br/><br/>
-    ⚡ <b>Tech Enthusiast</b> — JavaScript, TypeScript, React, Next.js, Python, AI/ML<br/><br/>
+    ⚡ <b>Tech Enthusiast</b> — JavaScript, TypeScript, React, Next.js, Python, AI/ML, .NET, Angular<br/><br/>
     🌌 <b>Cyberpunk Vibe</b> — code by day, neon dreams by night<br/><br/>
     🎮 <b>Anime Lover</b> — powered by waifus, ramen, and caffeine<br/><br/>
     🔮 <b>Current Mission</b> — building awesome things that make people go "wow"
