@@ -88,11 +88,7 @@
   </picture>
 
   <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=anionzo&color=0066FF&style=for-the-badge&label=VISITORS" alt="visitors" />
 
-<br/><br/>
-   
 </div>
 
 <div align="center">
