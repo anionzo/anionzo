@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a4d,50:003399,100:0066ff&height=200&section=header&text=⚡%20ANIONZO%20⚡&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=「%20CODE%20IS%20MY%20POWER%20」&descSize=18&descAlignY=55" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a4d,50:003399,100:0066ff&height=200&section=header&text=%F0%9F%90%B8%20ANIONZO%20%F0%9F%90%B8&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=「%20CODE%20IS%20MY%20POWER%20」&descSize=18&descAlignY=55" alt="header" />
 </div>
 
 <div align="center">
